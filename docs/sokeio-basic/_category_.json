@@ -1,0 +1,8 @@
+{
+  "label": "Sokeio - Basic",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Sokeio Framework is a Laravel-based web application support for modules, plugins, themes."
+  }
+}

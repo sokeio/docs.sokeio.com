@@ -1,0 +1,8 @@
+{
+  "label": "Sokeio - Admin",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Sokeio Admin is a Laravel-based web application support for UI admin with feature user, role, permission, system setting."
+  }
+}
